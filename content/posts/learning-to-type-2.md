@@ -1,7 +1,7 @@
 ---
 title: "Learning to Type 2"
 date: 2026-05-17T09:39:58-05:00
-summary: "Faster improvment then expected."
+summary: "Faster improvment than expected."
 description: "Month 1 1/2 progress"
 showToc: true
 showReadingTime: true
